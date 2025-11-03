@@ -18,11 +18,6 @@ Team Member 2	: Allwin C
 
 Team Member 3	: Edward Lalnunnema
 
-# Salesforce Developer Instance Link
-
-
-
-
 # Demo Video Link
 
 https://drive.google.com/drive/folders/1XtsKrGg7pNJzDrJGCMHol_IFTLe0UsTV
